@@ -7,6 +7,7 @@
 5 - 22-Leonardo Lucas da Silva Mendes
 6 - 25-Manoel Vitor Laque Costa
 7 - 05-Bernardo Bonifácio Duarte da Silva
+
 testando branch*/
 
 programa
@@ -497,8 +498,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 292; 
- * @DOBRAMENTO-CODIGO = [30, 40, 72, 90, 114, 162, 276, 291, 415, 428, 442, 439, 450, 486];
+ * @POSICAO-CURSOR = 278; 
+ * @DOBRAMENTO-CODIGO = [31, 41, 73, 91, 115, 163, 277, 292, 416, 429, 443, 440, 451, 487];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
