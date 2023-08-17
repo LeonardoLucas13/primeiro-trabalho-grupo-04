@@ -7,7 +7,7 @@
 5 - 22-Leonardo Lucas da Silva Mendes
 6 - 25-Manoel Vitor Laque Costa
 7 - 05-Bernardo Bonifácio Duarte da Silva
-*/
+teste no git */
 
 programa
 {
@@ -497,7 +497,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 276; 
+ * @POSICAO-CURSOR = 290; 
  * @DOBRAMENTO-CODIGO = [30, 40, 72, 90, 114, 162, 276, 291, 415, 428, 442, 439, 450, 486];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
